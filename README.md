@@ -9,7 +9,7 @@ It helps to GET and POST request on any api and show the result to you on the br
  
 ### Run the project here - https://daakiya.herokuapp.com/
 
-![alt text](https://github.com/tj0389/Daakiya/blob/master/img2.png)
-![alt text](https://github.com/tj0389/Daakiya/blob/master/img1.png)
+![alt text](https://github.com/aarjavjain29/Daakiya/blob/main/Screenshots/img1.png)
+![alt text](https://github.com/aarjavjain29/Daakiya/blob/main/Screenshots/img2.png)
 
 
