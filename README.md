@@ -4,8 +4,7 @@ It helps to GET and POST request on any api and show the result to you on the br
 
 ### Technology Used-
 <pre>
- Front-end: HTML,CSS,Bootstrap, Javascript
- Back-end : Nodejs
+ JavaScript, ReactJs, API, BootStrap, Tailwind
  </pre>
  
 ### Run the project here - https://daakiya.herokuapp.com/
