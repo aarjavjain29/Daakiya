@@ -4,7 +4,7 @@ It helps to GET and POST request on any api and show the result to you on the br
 
 ### Technology Used-
 <pre>
- JavaScript, ReactJs, API, BootStrap, Tailwind
+ JavaScript, ReactJs, API, BootStrap
  </pre>
  
 ### Run the project here - https://daakiya.vercel.app/
