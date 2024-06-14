@@ -7,7 +7,7 @@ It helps to GET and POST request on any api and show the result to you on the br
  JavaScript, ReactJs, API, BootStrap, Tailwind
  </pre>
  
-### Run the project here - https://daakiya.herokuapp.com/
+### Run the project here - https://daakiya.vercel.app/
 
 ![alt text](https://github.com/aarjavjain29/Daakiya/blob/main/Screenshots/img1.png)
 ![alt text](https://github.com/aarjavjain29/Daakiya/blob/main/Screenshots/img2.png)
